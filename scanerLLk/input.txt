@@ -1,0 +1,12 @@
+public class main
+	{
+		public double fuc() 
+			 {
+				public int f = 2 + 1;
+				public int d = f * 2;
+				if (d >= 3) 
+				{
+					f = 1;
+				}
+			}
+	}

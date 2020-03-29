@@ -1,0 +1,4 @@
+public class main
+	{
+		private int a, c, d;	
+	}
